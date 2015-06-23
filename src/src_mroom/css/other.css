@@ -1,0 +1,172 @@
+
+.user ._link_login i {font-size:24px; margin-left:10px;}
+.user ._link_login  span {float:left; padding-top:2px;}
+
+.user ._lang_upper span {text-transform:uppercase;}
+
+.user ._form_login {padding:10px 20px; margin-bottom:0px; }
+.user ._form_login .control-group {margin:0;}
+.user ._form_login .form-actions {padding:0; margin:10px 0 0;}
+.user ._form_login .form-actions button {width:100%;}
+.user ._form_login .form-actions button i {font-size:16px;}
+.user ._form_login .errorlogin .alert {margin-bottom:0px; margin:8px 0 10px;}
+.user ._form_login .control-group .controls .checkbox { margin:0; padding: 0; float:right;}
+.user ._form_login .control-group .controls .passrecovery { margin:0; padding: 0; float:left;}
+.user ._form_login .control-group .controls .passrecovery a {border-bottom:1px solid #333;}
+
+.user #form_go_signup {padding:0 20px; margin-bottom:17px;}
+.user #form_go_signup span{text-align: center; display: block; padding:0 0 11px;}
+.user #form_go_signup .form-actions {padding:0; margin:0;}
+
+#gritter-notice-wrapper.top-left {left: 400px; top:40px; right: auto;}
+.row-fluid .box {margin-top:20px}
+
+.alert_out {color:#7f612e;}
+#changepassword .alert, #recoverypass_form .alert, #signup_form .alert, #deposit .alert, #cashout .alert {background: none; padding:4px 15px 4px; margin-bottom:0px; font-size:13px; float: left;}
+#changepassword .input-xlarge, #recoverypass_form .input-xlarge, #signup_form .input-xlarge, #deposit .input-xlarge, #cashout .input-xlarge  {float:left; background: #fff;}
+#changepassword .controls, #recoverypass_form .controls, #signup_form .controls, #deposit .controls, #cashout .controls  {padding-left:0; margin-left: 0;}
+#changepassword .control-group label, #recoverypass_form .control-group label, #signup_form .control-group label, #deposit .control-group label, #cashout .control-group label {width:130px;}
+#changepassword .controls .help-block, #recoverypass_form .controls .help-block, #signup_form .controls .help-block, #deposit .controls .help-block, #cashout .controls .help-block { margin-left:130px;}
+#signup_form .terms_of_use {float:left; margin-top:2px; width:284px; }
+#signup_form .terms_of_use input {vertical-align: top;}
+#signup_form .terms_of_use span {margin-left:5px;}
+#signup_form .terms_of_use span a {border-bottom:1px solid #333;}
+#changepassword .btn-primary, #recoverypass_form .btn-primary, #signup_form .btn-primary, #deposit .btn-primary, #cashout .btn-primary {margin-left: 0;}
+#changepassword .form-actions, #recoverypass_form .form-actions, #signup_form .form-actions, #deposit .form-actions, #cashout .form-actions {padding:0 0 0 130px;}
+
+#content, #navigation .container, #navigation .container-fluid{min-width: 1000px; max-width:1170px;}
+#navigation .container, #navigation .container-fluid {background-color: #333;}
+#main .box {margin:0px 0;}
+#main .box .box-content .box-content {border:none;}
+.box-content h4 {font-weight: normal; text-align: center;}
+#main .myedittable tr td {padding:5px;}
+#main .myedittable tr td input, #main .myedittable tr td select  {font-size:11px; width:150px;}
+#main .myedittable tr td span{background-color:#fb936b;}
+.adm_notification {text-align: center; background-color:#fb936b;}
+#maintable tbody {border:none;}
+#maintable .tr_disc {background-color:#e6e6e6; text-align:center;}
+
+
+#setUTC {width:80px; font-size: 10px; margin: 0;}
+.label {font-weight: normal;}
+.control-group p a {border-bottom:1px solid #333;}
+.control-group p {margin-bottom:20px;}
+
+.modal-header h3 {font-size: 20px;}
+
+.modal-body .input-xlarge {width:100px;}
+.modal-body {padding-bottom:5px; padding-top:15px; overflow-x:hidden;}
+
+.infomessage {display: none;}
+.tableformbets {margin:0px auto;}
+.tableformbets, .tableaccord {background-color: #F8F8F8;}
+.tableformbets tr td, .tableaccord  tr td {padding:5px 10px; border-left:1px solid #ddd; border-right:1px solid #ddd;}
+.tableformbets .input-xlarge, .tableaccord .input-xlarge {width:229px; background: #fff;}
+.closematch tr td, .tableaccord tr td,  .tableformbets tr td{width:265px;}
+tr.trcenter td {text-align: center;}
+tr.trcenter td.closebof {background: #999999;}
+tr.bof td {color:#fff;}
+td.tdgreen {background:#56AF45; color: #fff;}
+p.tcenter {color:#fff; text-align: center; padding:5px 10px; background: #999999;}
+
+.betsinfo {padding:5px 10px; text-align: center; color:#fff; margin-bottom:10px; background: #4d87b3;}
+.newlabel {background: #4d87b3; color:#fff; margin:0 2px;}
+.timerlabel {background: #666666; color:#fff;}
+.activesumlabel, .oddslable{background: #FAB750; color:#333;}
+.allsumlabel{background: #8bedca; color:#333; margin:0 3px;}
+.betbetsum{background: #cfdabf; color:#333;}
+.editplayer2{color: #04027d; font-size:16px; border-bottom:2px solid #04027d;}
+.editplayer1{color: #5b019a; font-size:16px; border-bottom:2px solid #5b019a;}
+.editstatus{color: #9e102b; font-size:16px; border:3px solid #9e102b; margin-left:500px; padding:2px 10px;}
+.countcheckout {padding:8px 10px;}
+.cancelX, a.cancelX {margin-left:3px; color:#fff; background:#666; cursor:pointer;}
+.cancelX:hover {background:#333;}
+.sentX {margin-left:3px; background:#549c89;}
+.sentXwin {background:#549c89;}
+.cancelbetYES {background: #96ac6b;}
+.trcancelbetYES {background: #d4ddc2;}
+.trcancelbetNO {background: #a0d595;}
+
+
+#tableHolder .label {width:66px;}
+#tableHolder .labelad {width:40px;}
+#tableHolder .sumlabel {width:auto; padding:2px 4px;}
+#tableHolder tr.usertr:hover td,  .dataTable tr.usertr:hover td {background:#ccc; cursor:pointer;}
+#tableHolder tr.closetr {background:#f3efec;}
+/*#tableHolder tr.closetr {background:#eee;}*/
+
+.tblwinbet tr td, .tblwinbet .label {font-size:11px;}
+.tblwinbet tr.usertr_notlink:hover td, .dataTable tr.usertr_notlink:hover td {background:#ccc;}
+.dataTable .btop {border-top:2px solid #ccc;}
+.dataTable .bbottom {border-bottom:2px solid #ccc;}
+.tblwinbet thead tr th, .dataTable thead tr th {color: #333; background: #EEEEEE;}
+.table-hover thead tr th {font-weight: normal;}
+
+
+#btimer {position: absolute; left:252px;}
+#utcTime {padding:12px 5px;}
+
+tr.thefilter input.text_filter{font-size:12px;}
+.tblsumclose {border: none;}
+
+/*.accordion-heading a:hover {text-decoration: underline;}*/
+.accordion-heading a {color:#fff;}
+.accordion-heading a:hover span {border-bottom:1px solid #fff;}
+.accordion-heading {background:#919191; position: relative;}
+.accordion-body {border:2px solid #919191;}
+
+.accordstate {position:absolute; top:9px; right:15px; border:1px solid #aaa;}
+.label-aclose {background: #666666;}
+.label-agreen {background: #3e7e32;}
+
+.accordion-inner {padding:12px 12px 20px; border:none;}
+.accordion-group {border:none;}
+.modal {width:600px;}
+
+.modal-footer .btn {margin-right: 2px;}
+.modal-footer .btn-primary {margin-right: 0px;}
+.modal-footer .btn-close {margin-right: 0px;}
+
+#maintable .latest{padding-top:15px;}
+#maintable .box-title {padding:3px 0 3px 10px;}
+
+.email {border-bottom:1px dotted;}
+input.inputamount {border:none; cursor:default;}
+
+.lmessages {background: #546b66;}
+
+.chat {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.chat li {
+    margin-bottom: 5px;
+    padding:5px;
+    background:#bfccc9;
+    border-radius: 5px;
+    font-size:13px;
+}
+
+.chat li.admin {
+    margin-left:30px;
+    background:#8bec9c;
+}
+
+.chat .header {float:right; font-size:10px;}
+.chat .textbody {}
+
+.panel .slidedown .glyphicon,
+.chat .glyphicon {
+    margin-right: 5px;
+}
+
+.chat-panel .panel-body {
+    height: 350px;
+    overflow-y: scroll;
+}
+.tablesupport {margin:0px auto; width:100%; font-size: 13px;}
+.tablesupport {background-color: #F5F5F5;}
+.tablesupport tr td {padding:5px 10px; border-left:1px solid #ddd; border-right:1px solid #ddd;}
+#usermessage {max-width: 566px; min-width: 566px; padding:8px; max-height: 100px;}
